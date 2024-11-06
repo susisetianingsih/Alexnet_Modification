@@ -5,7 +5,7 @@ This project focuses on modifying the **AlexNet** model architecture to improve 
 ## 📑 Project Overview
 In the medical field, early detection of brain tumors plays a crucial role in enhancing the quality of care and treatment success. However, diagnosing brain tumors from MRI scans requires in-depth analysis, which can be time-consuming and typically requires experienced medical professionals. Therefore, a machine learning-based approach is essential to assist in this process automatically and efficiently.
 
-### ⚙️ Project Structure
+## ⚙️ Project Structure
 - **Model:** Contains the modified architecture of AlexNet for detecting brain tumors.
 - **Data:** Uses an MRI dataset for brain tumors.
 - **Model Training:** Applies accuracy-improving techniques through data augmentation.
